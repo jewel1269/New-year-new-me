@@ -1,0 +1,133 @@
+.jewel{
+    background-image: url("../images/banner/banner3.png");
+    background-size: cover;
+    width:100%;
+    height: 1000px;
+    font-family: 'Open Sans', sans-serif;
+}
+.habib{
+color: #FFF;
+text-align: right;
+font-family: Work Sans;
+font-size: 65px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+width: 525px;
+
+}
+.amad{
+    display: flex;
+    margin-top: 130px;
+    align-items: center;
+    gap: 150px;
+    margin-left: 227px;
+    margin-right: 322;
+}
+.jano{
+    display: flex;
+    margin-left: 360px;
+    margin-right: 249px;
+   
+    gap: 106px;
+}
+.llo{
+    text-align: center;
+   margin-top: 100px;  
+   color:#151414;
+text-align: center;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.picture{
+    width: 92.958px;
+height: 92.958px;
+margin-left: 60px;
+}
+.file{
+    color:#151414;
+text-align: center;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.file2{
+    color: #737272;
+text-align: center;
+font-size: 25px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.call-now{
+    background-image: url("../images/watch.png");
+    margin-left: 350px;
+    margin-right: 230px;
+    height: 220px;
+    margin-top: 130px;
+    background-repeat:no-repeat;
+    border-radius: 8px;
+    width: 1140px;
+height: 300px;
+}
+.call1{
+width: 459px;
+color: #FFF;
+font-size: 35px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-left: 30px;
+margin-top:25px;
+}
+.call2{
+    width: 160px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #FFF;
+    margin-top: 35px;
+    margin-left: 30px;
+}
+.call{
+    margin-top: 30px;
+}
+.mithun{
+    display: flex;
+    width: 100%;
+height: 577px;
+background:  #151414;
+margin-top: 130px;
+gap: 600px;
+}
+.samo{
+    color: white;
+    margin-left: 250px;
+    margin-top: 70px;
+    
+}
+.kamo{
+    color: #F8F8F8;
+font-size: 45px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.lamo{
+    margin-top: 100px;
+    color: #FFF;
+font-size: 25px;
+font-style: normal;
+font-weight: 600;
+line-height: normal
+}
+.baton{
+    margin-top: 20px;
+    width: 170.106px;
+height: 50px;
+border-radius: 8px;
+background: #005FAC;
+}
